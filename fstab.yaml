@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p155407-e1648448.adobeaemcloud.com/bin/franklin.delivery/sumitral-prolifico-digital/universal-editor-app/main"
     type: "markup"
     suffix: ".html"
