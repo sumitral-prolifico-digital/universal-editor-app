@@ -19,7 +19,7 @@
   },
   {
     "...": "../blocks/*/_*.json#/models"
-  }
+  },
   {
     "id": "teaser",
     "fields": [
