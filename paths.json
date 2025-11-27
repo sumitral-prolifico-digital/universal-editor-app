@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-app/:/",
-    "/content/universal-editor-app/configuration:/.helix/config.json",
-    "/content/universal-editor-app/metadata:/metadata.json"
+    "/content/aem-eds-ue/:/",
+    "/content/aem-eds-ue/configuration:/.helix/config.json",
+    "/content/aem-eds-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-app/"
+    "/content/aem-eds-ue/"
   ]
 }
