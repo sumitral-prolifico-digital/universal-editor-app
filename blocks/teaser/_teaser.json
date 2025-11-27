@@ -23,25 +23,39 @@
       "id": "teaser",
       "fields": [
         {
+          "component": "select",
+          "name": "classes",
+          "value": "",
+          "label": "Teaser options",
+          "valueType": "string",
+          "options": [
+            {
+              "name": "Default",
+              "value": ""
+            },
+            {
+              "name": "Side-by-side",
+              "value": "side-by-side"
+            }
+          ]
+        },
+        {
           "component": "reference",
           "valueType": "string",
           "name": "image",
-          "label": "Image",
-          "multi": false
+          "label": "Image"
         },
         {
           "component": "text",
           "valueType": "string",
           "name": "imageAlt",
-          "label": "Image alt text",
-          "required": true
+          "label": "Image alt text"
         },
         {
           "component": "richtext",
           "name": "textContent_text",
           "label": "Text",
-          "valueType": "string",
-          "required": true
+          "valueType": "string"
         },
         {
           "component": "aem-content",
